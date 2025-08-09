@@ -42,7 +42,6 @@ Aplikasi Android ini sudah dikonfigurasi untuk terhubung ke server yang sudah di
     - **Prasyarat:** Android Studio (versi terbaru).
     - Buka proyek dari folder yang sudah di-clone.
     - Tunggu hingga Gradle Sync selesai.
-    - **PENTING:** `BASE_URL` di `app/src/main/java/com/example/laundryapp/data/api/RetrofitInstance.kt` sudah diatur ke domain publik. Anda tidak perlu mengubahnya jika ingin terhubung ke server yang sudah *live*.
     - Klik "Run 'app'" (▶️) untuk menjalankan di emulator atau perangkat fisik.
 
 ### Catatan Tambahan
