@@ -1,4 +1,4 @@
-# Sistem Informasi Laundry: Web & Aplikasi Android
+# Sistem Informasi Laundry Aplikasi Android
 
 ![Platform](https://img.shields.io/badge/Platform-Web%20%26%20Android-brightgreen.svg)
 ![Backend](https://img.shields.io/badge/Backend-CodeIgniter%204-orange.svg)
