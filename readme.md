@@ -46,6 +46,7 @@ Aplikasi Android ini sudah dikonfigurasi untuk terhubung ke server yang sudah di
 
 ### Catatan Tambahan
 - **Akun Pelanggan (Android):** Silakan buat akun baru melalui fitur Registrasi di aplikasi.
+- **Akun Demo:** Email: harry@gmail.com - Password: 11111111
 
 ---
 
