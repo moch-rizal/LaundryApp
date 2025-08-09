@@ -12,7 +12,6 @@ Proyek ini adalah sebuah ekosistem Sistem Informasi Laundry lengkap yang dibangu
 1.  **Aplikasi Web (CodeIgniter 4):** Berfungsi sebagai **Panel Admin** untuk manajemen bisnis dan sebagai **REST API Server** yang menyediakan data untuk aplikasi mobile.
 2.  **Aplikasi Mobile (Android - Jetpack Compose):** Berfungsi sebagai **Aplikasi Klien** yang memungkinkan pelanggan untuk melakukan pemesanan dan melihat riwayat transaksi langsung dari ponsel mereka.
 
-**[Link Demo Aplikasi Web (LIVE)]** - `http://laundrykilat.biz.id/`
 **[Link Download Aplikasi Android (.apk)]** - `https://drive.google.com/file/d/15X0Sxz1Xrj0ztA9HYV1YXSVuoEXdr0Lr/view?usp=sharing`
 
 ---
@@ -47,7 +46,6 @@ Aplikasi Android ini sudah dikonfigurasi untuk terhubung ke server yang sudah di
     - Klik "Run 'app'" (▶️) untuk menjalankan di emulator atau perangkat fisik.
 
 ### Catatan Tambahan
-- **Akun Admin (Web):** Email: `admin@laundry.com` | Password: `admin123`
 - **Akun Pelanggan (Android):** Silakan buat akun baru melalui fitur Registrasi di aplikasi.
 
 ---
