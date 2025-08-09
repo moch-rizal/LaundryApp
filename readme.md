@@ -7,7 +7,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini adalah sebuah ekosistem Sistem Informasi Laundry lengkap yang dibangun untuk memenuhi tugas Praktikum. Sistem ini terdiri dari dua bagian utama yang saling terintegrasi:
+Proyek ini adalah sebuah ekosistem Sistem Informasi Laundry lengkap yang dibangun dari dua bagian utama yang saling terintegrasi:
 
 1.  **Aplikasi Web (CodeIgniter 4):** Berfungsi sebagai **Panel Admin** untuk manajemen bisnis dan sebagai **REST API Server** yang menyediakan data untuk aplikasi mobile.
 2.  **Aplikasi Mobile (Android - Jetpack Compose):** Berfungsi sebagai **Aplikasi Klien** yang memungkinkan pelanggan untuk melakukan pemesanan dan melihat riwayat transaksi langsung dari ponsel mereka.
