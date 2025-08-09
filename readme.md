@@ -50,4 +50,3 @@ Aplikasi Android ini sudah dikonfigurasi untuk terhubung ke server yang sudah di
 ---
 
 Dibuat oleh: **Moch. Arif Samsul Rizal**
-NIM: **202211420083**
